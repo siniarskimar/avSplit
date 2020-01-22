@@ -1,0 +1,3 @@
+[submodule "cmake-FindLibAv"]
+	path = cmake-FindLibAv
+	url = https://github.com/siniarskimar/cmake-FindLibAv.git
